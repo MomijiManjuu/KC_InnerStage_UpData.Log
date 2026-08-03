@@ -1,3 +1,3 @@
-KCInnerStage_VERSION=1.1.0
+KCInnerStage_VERSION=1.0.0
 KCInnerStage_MESSAGE=販売版を公開しました
-KCInnerStage_SEVERITY=高
+KCInnerStage_SEVERITY=低
