@@ -1,3 +1,3 @@
-KCInnerStage_VERSION=1.0.0
-KCInnerStage_MESSAGE=販売版を公開しました
-KCInnerStage_SEVERITY=低
+KCInnerStage_VERSION=1.0.1
+KCInnerStage_MESSAGE=球体メッシュが頭に追従しない問題が発生しました 再ダウンロードのち球体メッシュを再生成してください
+KCInnerStage_SEVERITY=高
